@@ -4,7 +4,7 @@
     "version" : "1.0",
     "depends" : ['base','account'],
     "author": "AsesoraIT",
-    "summaray" : 'Apply Manual Exchange Rate on Invoices and Register Payment.'
+    "summaray" : 'Apply Manual Exchange Rate on Invoices and Register Payment.',
     "price": 0,    
     "currency": "USD",
     'category': 'Accounting',
