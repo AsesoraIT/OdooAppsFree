@@ -24,7 +24,7 @@
     'installable': True,
     'application': True,
     'auto_install': False,
-    'images': ['static/description/main_screen.png'],
+    'images': ['static/description/icon.png'],
     "license": "LGPL-3",
 
 }
