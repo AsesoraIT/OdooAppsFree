@@ -2,10 +2,10 @@
 {
     "name" : "Manual Currency Exchange Rate",
     "version" : "1.0",
-    "summaray" : 'Apply Manual Exchange Rate on Invoices and Register Payment.'
-    "description": "Apply Manual Exchange Rate on Invoices and Register Payment."
     "depends" : ['base','account'],
     "author": "AsesoraIT",
+    "summaray" : 'Apply Manual Exchange Rate on Invoices and Register Payment.'
+    "description" : 'Apply Manual Exchange Rate on Invoices and Register Payment.'
     "price": 0,    
     "currency": "USD",
     'category': 'Accounting',
