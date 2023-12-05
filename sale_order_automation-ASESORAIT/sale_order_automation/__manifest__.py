@@ -3,7 +3,7 @@
 {
     'name' : 'Sale Order Automation',
     'version' : '1.0',
-    'author':'Asesora IT',
+    'author':'AsesoraIT',
     'category': 'Sales',
     'summary': """Enable auto sale workflow with sale order confirmation.""",
     'description': """
@@ -12,7 +12,7 @@
 
     """,
     'website': '',
-    'license': '',
+    'license': 'LGPL-3',
     'support':'',
     'depends' : ['sale_stock'],
     'data': [
