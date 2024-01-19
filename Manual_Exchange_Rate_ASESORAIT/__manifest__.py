@@ -3,7 +3,7 @@
     "name" : "Manual Currency Exchange Rate",
     "version" : "1.0",
     "depends" : ['base','account'],
-    "author": "AsesoraIT",
+    "author": "Asesora IT",
     "summaray" : 'Apply Manual Exchange Rate on Invoices and Register Payment.',
     "price": 0,    
     "currency": "USD",
